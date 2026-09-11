@@ -47,7 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://ibb.co/xKNkvTW1)
+![Screenshot1](storage/emulated/0/IMG-20260912-WA0011.jpg)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
