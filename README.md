@@ -2,47 +2,46 @@
 
 
 
-# [Project Name] 🎯
+# [chedifi.py] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Neo bit]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sakthiprasad R] - [Rajiv Gandhi institute of technology ]
+- Member 2: [Adwaith muraly] - [Rajiv Gandhi institute of technology ]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Chedi-Fi turns an ordinary houseplant into a touch-sensitive music controller. Touch its leaves and it skips to the next song on Spotify — or presses jump in the Chrome dinosaur game.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Reaching for your phone or laptop to hit "next" on a song is just so exhausting. Also, plants have been sitting around silently for millions of years, contributing absolutely nothing to your Spotify queue or your Chrome game high score. Someone had to fix this.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We wired up a capacitive proximity sensor to a plant, so the plant itself becomes the touch interface. An ESP8266 picks up the touch signal and sends it to a laptop, where a Python script listens in and simulates a keypress — "next track" on Spotify, or "jump" in the Chrome dinosaur game. Your plant is now a Bluetooth speaker's most judgmental button.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [Python]
+- [pyserial]
+- [Arduino IDE]
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ESP8266 (NodeMCU)]
+- [Capacitive proximity/touch sensor]
+- [Jumper wires]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[pip install pyserial pyautogui]
 
 # Run
-[commands]
+[python chedifi.py]
 
 ### Project Documentation
 For Software:
