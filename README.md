@@ -46,9 +46,8 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](storage/emulated/0/IMG-20260912-WA0011.jpg)
-*Add caption explaining what this shows*
+<img width="1280" height="640" alt="git (1)" src="https://ibb.co/xKNkvTW1" />
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
