@@ -2,7 +2,7 @@
 
 
 
-# [chedifi.py] 🎯
+# [chedi-fi] 🎯
 
 
 ## Basic Details
