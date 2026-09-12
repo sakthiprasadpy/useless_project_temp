@@ -46,27 +46,21 @@ For Software:
 ### Project Documentation
 For Software:
 
-<img width="1280" height="640" alt="git (1)" src="https://ibb.co/xKNkvTW1" />
+<img width="1366" height="768" alt="IMG-20260912-WA0011" src="https://github.com/user-attachments/assets/3652bf73-df96-478c-88be-6e93333c2489" />
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1366" height="768" alt="IMG-20260912-WA0010" src="https://github.com/user-attachments/assets/fd409bfc-f0aa-4d9e-bd2f-333436303961" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1408" height="768" alt="IMG-20260912-WA0012" src="https://github.com/user-attachments/assets/a6a978d6-a1a2-44a3-824c-028fdda3ac1b" />
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="1600" height="1200" alt="IMG-20260912-WA0000" src="https://github.com/user-attachments/assets/261dce4c-1ead-457c-a515-12f039bae584" />
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -80,8 +74,9 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+
 
 # Additional Demos
 [Add any extra demo materials/links]
