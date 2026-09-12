@@ -63,23 +63,24 @@ For Hardware:
 <img width="1600" height="1200" alt="IMG-20260912-WA0000" src="https://github.com/user-attachments/assets/261dce4c-1ead-457c-a515-12f039bae584" />
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+<img width="800" height="800" alt="ESP8266_NodeMCU_Board_5" src="https://github.com/user-attachments/assets/fb4464de-7e6f-49b0-92c4-e88ad8982adc" />
+<img width="1250" height="1250" alt="40_pin_female_to_male_jumper_wire__79923 1571491579" src="https://github.com/user-attachments/assets/d133509f-08c1-4957-85d7-02b638932fcf" />
+<img width="1100" height="1100" alt="ttp223-touch-key-capacitive-switch-module1-1100x1100" src="https://github.com/user-attachments/assets/a2f53e51-80e0-41d6-8145-be869f4f7245" />
+
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1600" height="1200" alt="IMG-20260912-WA0001" src="https://github.com/user-attachments/assets/a976a874-f996-4326-b90f-947c20a91c78" />
+
 
 ### Project Demo
-# Video
 
 
 
 
 # Additional Demos
-[Add any extra demo materials/links]
+[https://drive.google.com/file/d/1NUTAl2WsUxO7JaABurnAzrm7hoHsJSr0/view?usp=drivesdk]
 
 ## Team Contributions
 - [Sakthiprasad R]: [software ]
