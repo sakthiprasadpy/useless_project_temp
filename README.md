@@ -68,8 +68,11 @@ For Hardware:
 <img width="1100" height="1100" alt="ttp223-touch-key-capacitive-switch-module1-1100x1100" src="https://github.com/user-attachments/assets/a2f53e51-80e0-41d6-8145-be869f4f7245" />
 
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+
+
+https://github.com/user-attachments/assets/86d2cd5f-e626-4430-b783-a6641d15fb27
+
+
 
 <img width="1600" height="1200" alt="IMG-20260912-WA0001" src="https://github.com/user-attachments/assets/a976a874-f996-4326-b90f-947c20a91c78" />
 
